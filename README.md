@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Fati
+- 👀 I’m interested in Web Design
+- 🌱 I’m currently learning Figma and fundamental of UI/UX Design and Frontend Developer
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ( email: fatii.uix@gmail.com)
